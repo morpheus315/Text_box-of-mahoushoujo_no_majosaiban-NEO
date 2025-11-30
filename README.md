@@ -10,6 +10,8 @@
 
 一个基于Python的自动化表情包生成工具，能够快速生成带有自定义文本的魔法少女的魔女裁判文本框图片。[灵感来源与代码参考](https://github.com/MarkCup-Official/Anan-s-Sketchbook-Chat-Box)
 
+本仓库暂停更新，有一个更优化的版本（？）详见 [这个人的仓库](https://github.com/YangQwQ/Text_box-of-mahoushoujo_no_majosaiban-GUI)
+
 <div align="left">
 
 ## Todo List
@@ -165,6 +167,7 @@
 <div align="right">
   
 ### 以上. 柊回文————2025.11.15
+
 
 
 
